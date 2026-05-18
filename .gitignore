@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+output.txt
+output2.txt
+
+# Jupyter
+.ipynb_checkpoints/
